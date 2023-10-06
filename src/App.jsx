@@ -1,14 +1,13 @@
 import './App.css'
 
-import Footer from './Components/Footer'
-import HomeLayout from './Layout/HomeLayout'
+import HomeLayout from './Layout/HomeLayout.1'
 
 function App() {
 
 
   return (
     <>
-        <Footer/>
+        
         <HomeLayout/>
     </>
   )
